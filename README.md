@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 안녕하세요, Junior Front-End Developer 안미현 입니다. ✨
 
-### 👩🏻‍💻 Language and Tools
+### 👩🏻‍💻 Languages and Tools
 📍 HTML/CSS, Javascript, React, Sass, Styled Component, Context API, Redux <br>
 📍 Visual Studio Code, Github, Notion, Trello, Postman
 
