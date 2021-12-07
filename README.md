@@ -1,8 +1,10 @@
-### 👩🏻‍💻 안녕하세요, Junior Front-End Developer 안미현 입니다. ✨
+### 👩🏻‍💻 안녕하세요, Front-End Developer 안미현 입니다. ✨
 
 ### 👩🏻‍💻 Languages and Tools
-📍 HTML/CSS, Javascript, React, Sass, Styled Component, Context API, Redux <br>
-📍 Visual Studio Code, Github, Notion, Trello, Postman
+📍 HTML/CSS, Javascript, React, Next.js <br>
+📍 Sass, Styled Component, Context API, Redux <br>
+📍 Node.js, MongoDB <br>
+📍 Visual Studio Code, Github, Notion, Jira, Trello, Postman
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devCecy)](https://github.com/devCecy/github-readme-stats)
 <!--
