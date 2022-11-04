@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Cecilia (Mihyun An)👋 ✨
 
-I'm a <strong>front-end engineer</strong> that loves testing👩🏻‍💻. I'm also a clean coder🧹, challenger🏆 and a fan of Sherlock Holmes🔎, Harry potter🪄 and iced coffee🧊☕️, even when it's freezing ☃️.
+I'm a <strong>front-end engineer</strong> that loves testing👩🏻‍💻. I'm also a clean coder🧹, blogger✏️, challenger🏆 and a fan of Sherlock Holmes🔎, Harry potter🪄 and iced coffee🧊☕️, even when it's freezing ☃️.
 
 ---
 
